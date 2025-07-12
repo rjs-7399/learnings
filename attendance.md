@@ -15,3 +15,6 @@
 
 ## 10-July-2025
 - 10:15 PM to 11:15 PM: Completed 2:26 minutes to 2:35 minutes of [Darshil Parmar | Netflix Data Analysis | DBT Masterclass | End-To_End Project](https://youtu.be/zZVQluYDwYY?si=SmK2IQv5Dtb6mWCt)
+
+## 12-July-2025
+- 3:00 PM to 4:30 PM: Completed 2:35 minutes to 2:45 minutes of [Darshil Parmar | Netflix Data Analysis | DBT Masterclass | End-To_End Project](https://youtu.be/zZVQluYDwYY?si=SmK2IQv5Dtb6mWCt)
